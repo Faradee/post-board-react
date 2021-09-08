@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "title": "gaga",
+      "body": "gagag",
+      "id": 1
+    },
+    {
+      "title": "hteheherht",
+      "body": "",
+      "id": 9
+    },
+    {
+      "title": "hteh",
+      "body": "htehe",
+      "id": 10
+    },
+    {
+      "title": "hfghf",
+      "body": "hghfg",
+      "id": 11
+    },
+    {
+      "title": "hhh",
+      "body": "hh",
+      "id": 12
+    },
+    {
+      "title": "hgn",
+      "body": "ghnghn",
+      "id": 13
+    },
+    {
+      "title": "hhh",
+      "body": "mhgm",
+      "id": 14
+    },
+    {
+      "title": "f",
+      "body": "ff",
+      "id": 15
+    },
+    {
+      "title": "hh",
+      "body": "hh",
+      "id": 16
+    }
+  ],
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin",
+      "id": 1
+    }
+  ]
+}
