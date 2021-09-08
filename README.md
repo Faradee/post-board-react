@@ -5,7 +5,7 @@ The project's goal is to help me develop skills necessary for building high-qual
 
 It's an app where i want to implement most of the average forum functionality with small features on the side there and there.
 
-For the time being i'm using JSON server as the project's database.
+For the time being i'm using JSON server as the project's database, db.json is the database file.
 
 Any feedback regarding the project is welcome. :)
 
